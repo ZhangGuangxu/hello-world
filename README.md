@@ -1,2 +1,2 @@
 # hello-world
-turorial
+This is a turorial-project.
